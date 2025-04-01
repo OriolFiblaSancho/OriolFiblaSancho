@@ -5,7 +5,7 @@
 - ✨ Constantly working on new projects that I will be uploading around here.
 - ✨ Currently learing React
 
-# Thinks I like:
+## Thinks I like:
 - ✈️ Traveling
 - 🏕️ Hiking
 - 📚 Reading
