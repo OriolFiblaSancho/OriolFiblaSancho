@@ -12,8 +12,8 @@
 - 🎮 Gaming
 
 
-<div align="right">
-  <img alt="Coding" width="200" src="https://github.com/user-attachments/assets/d4254e5e-ed00-4ec1-802e-8c642b0ac761">
+<div align="center">
+  <img alt="Coding" width="300" src="https://github.com/user-attachments/assets/d4254e5e-ed00-4ec1-802e-8c642b0ac761">
 </div>
 
 
