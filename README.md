@@ -12,6 +12,10 @@
 - 🎮 Gaming
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OriolFiblaSancho&theme=shades-of-purple)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=OriolFiblaSancho&theme=shades-of-purple" alt="GitHub Streak">
+  </a>
+</div>
 
 
