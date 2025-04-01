@@ -10,6 +10,9 @@
 - 📚 Reading
 - 🎮 Gaming
 
-<img align="center" justify-content="center" alt="Coding" width="400" src="https://github.com/user-attachments/assets/d4254e5e-ed00-4ec1-802e-8c642b0ac761">
+<div align="center">
+  <img alt="Coding" width="400" src="https://github.com/user-attachments/assets/d4254e5e-ed00-4ec1-802e-8c642b0ac761">
+</div>
+
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=OriolFiblaSancho&theme=shades-of-purple)](https://git.io/streak-stats)
