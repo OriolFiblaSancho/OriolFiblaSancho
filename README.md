@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=OriolFiblaSancho&theme=shades-of-purple" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=OriolFiblaSancho&theme=radical" alt="GitHub Streak">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
