@@ -8,7 +8,10 @@
 - 🔥 Constantly working on new projects that I will be uploading around here.
 - ⚛️ Currently learing React
 
-## ✌️ Thinks I like:
+<div align="center">
+  <h2>Things I like</h2>
+</div>
+
 - ✈️ Traveling
 - 🏕️ Hiking
 - 📚 Reading
