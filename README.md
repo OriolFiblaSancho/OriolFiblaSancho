@@ -18,6 +18,6 @@
   </a>
   <br><br>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=OriolFiblaSancho&theme=shades-of-purple" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=OriolFiblaSancho&theme=radical" alt="GitHub Streak">
   </a>
 </div>
