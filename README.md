@@ -1,5 +1,5 @@
 [![MasterHead](header.png)](https://github.com/OriolFiblaSancho)
-## Thinks I like:
+### Thinks I like:
 - ✈️ Traveling
 - 🏕️ Hiking
 - 📚 Reading
