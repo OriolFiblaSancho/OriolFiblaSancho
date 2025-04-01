@@ -1,18 +1,18 @@
 [![MasterHead](header.png)](https://github.com/OriolFiblaSancho)
 
-### Whoiam
+# Whoiam
 - ✨ A <b>web development</b> student from <b>Spain</b>. 
 - ✨ Constantly working on new projects that I will be uploading around here.
 - ✨ Currently learing React
 
-### Thinks I like:
+# Thinks I like:
 - ✈️ Traveling
 - 🏕️ Hiking
 - 📚 Reading
 - 🎮 Gaming
 
 
-#### Stats:
+# Stats:
 ---
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
