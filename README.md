@@ -1,17 +1,13 @@
 [![MasterHead](header.png)](https://github.com/OriolFiblaSancho)
 
-<div align="center">
-  <h1>Whoami</h1>
-</div>
 
+# Whoami
 - 💻 A <b>web development</b> student from <b>Spain</b>. 
 - 🔥 Constantly working on new projects that I will be uploading around here.
 - ⚛️ Currently learing React
 
-<div align="center">
-  <h2>Things I like</h2>
-</div>
 
+## Things I like
 - ✈️ Traveling
 - 🏕️ Hiking
 - 📚 Reading
