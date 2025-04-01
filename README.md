@@ -1,2 +1,1 @@
-- 👋 Buenas, soy un estudiante de desarrollo de aplicaciones web, voy a estar subiendo por aqui los proyectos que haga.
-- 📫 oriolfibla@iesmontisa.org
+
